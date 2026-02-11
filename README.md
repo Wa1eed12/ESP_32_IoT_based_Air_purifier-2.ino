@@ -41,8 +41,6 @@ It demonstrates real-time processing, GPIO control, and hardware interfacing usi
 
 ---
 
-## 📷 Hardware Setup
-(Add images here)
 
 ---
 
