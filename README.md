@@ -18,8 +18,8 @@ It demonstrates real-time processing, GPIO control, and hardware interfacing usi
 
 ## ⚙️ Hardware Used
 - ESP32 Development Board
-- Sensors (if used)
-- Actuators (if used)
+- Sensors 
+- Actuators 
 - Power Supply
 - Breadboard and jumper wires
 
